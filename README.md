@@ -31,13 +31,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
-
+<!--
 ### 📜 Certificates:
 
 - ✅ Flutter & Dart - [Udemy](https://www.udemy.com/) *(replace this with your actual link)*
 - ✅ Programming with Python - [Coursera](https://www.coursera.org/) *(replace this with your actual link)*
 - ✅ Introduction to Databases - [Edraak](https://www.edraak.org/) *(replace this with your actual link)*
-
+-->
 ---
 
 ### 🌐 Contact Me:
