@@ -11,7 +11,7 @@
 - 💙 Passionate about Flutter, Dart & Mobile Development
 - 🌱 Currently learning Firebase & state management techniques
 - 🚀 I love building apps that help people
-- 📫 Reach me at: **youmnaelgzery@gmail.com**
+- 📫 Reach me at: **youmnaelgzery409@gmail.com**
 
 ---
 
@@ -69,8 +69,8 @@
 
 ### 🌐 Contact Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youmna-dot)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:youmnaelgzery@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youmna-elgzery-6a7aba251/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:youmnaelgzery409@gmail.com)
 
 <!-- 
 ---
