@@ -31,19 +31,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
-<!--
-### 📜 Certificates:
 
-- ✅ Flutter & Dart - [Udemy](https://www.udemy.com/) *(replace this with your actual link)*
-- ✅ Programming with Python - [Coursera](https://www.coursera.org/) *(replace this with your actual link)*
-- ✅ Introduction to Databases - [Edraak](https://www.edraak.org/) *(replace this with your actual link)*
--->
----
+### 💻 Languages and Tools:
 
-### 🌐 Contact Me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youmna-dot)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:youmnaelgzery@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+</p>
 
 ---
 
@@ -51,6 +49,28 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youmna-dot&show_icons=true&theme=radical" />
 </p>
+
+---
+
+### 📈 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youmna-dot&layout=compact&theme=radical" />
+</p>
+
+---
+<!--
+### 📜 Certificates:
+
+- ✅ Flutter & Dart - [Udemy](https://www.udemy.com/)
+- ✅ Programming with Python - [Coursera](https://www.coursera.org/)
+- ✅ Introduction to Databases - [Edraak](https://www.edraak.org/)
+-->
+---
+
+### 🌐 Contact Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youmna-dot)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:youmnaelgzery@gmail.com)
 
 <!-- 
 ---
@@ -62,18 +82,13 @@ A mobile app that connects restaurants and people in need to reduce food waste.
 **Tech Used:** Flutter, Dart, Firebase  
 🔗 [View Repository](https://github.com/youmna-dot/your-repo-name)
 
----
-
 #### 💻 Portfolio Website
 Personal portfolio to showcase skills and projects with modern UI.  
 **Tech Used:** HTML, CSS, JavaScript  
 🔗 [View Repository](https://github.com/youmna-dot/your-portfolio-repo)
 
----
-
 #### 🤖 Maze Race Game with AI
 A maze game where a player competes with AI using A* algorithm to reach the goal.  
 **Tech Used:** Python, Pygame, AI Algorithms  
 🔗 [View Repository](https://github.com/youmna-dot/your-maze-game-repo)
-
 -->
